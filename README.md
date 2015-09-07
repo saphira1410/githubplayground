@@ -1,5 +1,3 @@
-# githubplayground
-a test playground for workshop participants to commit to
+## Introduction
 
-hi this is a commit from saphira1410.
-this is a bit of a change.
+Github Playground is a sandbox playground for github where you can make edits, branches, pull requests, and do other things without worrying about changing real data.
